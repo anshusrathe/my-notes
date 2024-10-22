@@ -1,4 +1,3 @@
-
 # Money and Banking Part I
 ## Evolution of Money and Banking
 
