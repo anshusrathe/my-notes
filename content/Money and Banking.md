@@ -1,10 +1,4 @@
----
-title: "Money and Banking Part I"
-draft: true
-tags:
-  - "#economics"
----
- 
+
 # Money and Banking Part I
 ## Evolution of Money and Banking
 
