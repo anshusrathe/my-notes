@@ -1126,4 +1126,4 @@ When a bank enters PCA, RBI can:
 - **Concept:** Developed by A.W. Phillips, states an inverse relationship between inflation and unemployment.
 - **Theory:** Lower unemployment leads to higher inflation and vice versa due to increased wages with economic growth.
 - **Empirical Discrepancies:** Disproven by stagflation in the 1970s, showing high inflation and unemployment simultaneously.
-- **Short-Term Implications:** Phillips curve holds true in the short term but may not be applicable in all economic situations.
+- **Short-Term Implications:** Phillips curve holds true in the short term but may not be applicable in all the economic situations.
